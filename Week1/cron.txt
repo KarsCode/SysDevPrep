@@ -1,0 +1,3 @@
+# m h  dom mon dow   command
+* * * * * /home/kartik/SysDevPrep/Week1/delete_cpp.sh
+This command runs the delete_cpp script every single minute. In this way cpp files are deleted from the target directory at rregular intervals that can be controlled by changing the command parameters.
