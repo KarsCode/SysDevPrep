@@ -1,0 +1,25 @@
+========== System Health Report at 2025-04-21 20:46:32 ==========
+CPU Load Average:
+ 0.00, 0.00, 0.00
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.4Gi       661Mi       6.7Gi       3.1Mi       317Mi       6.8Gi
+Swap:          2.0Gi          0B       2.0Gi
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sdc       1007G   19G  938G   2% /
+
+System Uptime:
+up 5 hours, 26 minutes
+
+Top 5 Memory Consuming Processes:
+    PID    PPID CMD                         %MEM %CPU
+    203       1 /usr/bin/python3 /usr/share  0.3  0.0
+     52       1 /usr/lib/systemd/systemd-jo  0.2  0.0
+    168       1 /usr/libexec/wsl-pro-servic  0.2  0.0
+      1       0 /sbin/init                   0.1  0.0
+    141       1 /usr/lib/systemd/systemd-re  0.1  0.0
+=====================================================
+
