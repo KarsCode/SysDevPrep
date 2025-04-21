@@ -18,8 +18,8 @@
 ## 📅 Week-by-Week Checklist
 
 ### ✅ Week 1: Linux & Bash Mastery
-- [ ] Practice CLI: `lsof`, `journalctl`, `systemctl`, `awk`, `sed`
-- [ ] Set up `crontab` to automate backups or cleanups
+- [x] Practice CLI: `lsof`, `journalctl`, `systemctl`, `awk`, `sed`
+- [x] Set up `crontab` to automate backups or cleanups
 - [ ] Write scripts for system health, CPU/mem/disk
 - [ ] Learn file permissions and process management
 
