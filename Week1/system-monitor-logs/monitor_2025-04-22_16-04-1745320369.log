@@ -1,0 +1,44 @@
+=============================================
+System Monitor Log - Tue Apr 22 16:42:49 IST 2025
+=============================================
+
+--- UPTIME & LOAD AVERAGE ---
+ 16:42:49 up  5:43,  1 user,  load average: 0.00, 0.00, 0.00
+
+--- CPU USAGE ---
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+--- MEMORY USAGE ---
+               total        used        free      shared  buff/cache   available
+Mem:           7.4Gi       669Mi       6.6Gi       3.2Mi       444Mi       6.8Gi
+Swap:          2.0Gi          0B       2.0Gi
+
+--- DISK USAGE ---
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.8G     0  3.8G   0% /usr/lib/modules/5.15.167.4-microsoft-standard-WSL2
+none            3.8G  4.0K  3.8G   1% /mnt/wsl
+drivers         238G  209G   30G  88% /usr/lib/wsl/drivers
+/dev/sdc       1007G   19G  938G   2% /
+none            3.8G  120K  3.8G   1% /mnt/wslg
+none            3.8G     0  3.8G   0% /usr/lib/wsl/lib
+rootfs          3.8G  2.2M  3.8G   1% /init
+none            3.8G  536K  3.8G   1% /run
+none            3.8G     0  3.8G   0% /run/lock
+none            3.8G     0  3.8G   0% /run/shm
+tmpfs           4.0M     0  4.0M   0% /sys/fs/cgroup
+none            3.8G   92K  3.8G   1% /mnt/wslg/versions.txt
+none            3.8G   92K  3.8G   1% /mnt/wslg/doc
+C:\             238G  209G   30G  88% /mnt/c
+D:\             932G  673G  259G  73% /mnt/d
+tmpfs           762M   16K  762M   1% /run/user/1000
+
+--- TOP 5 MEMORY-CONSUMING PROCESSES ---
+USER PID %CPU %MEM COMMAND
+root 203 0.0 0.3 /usr/bin/python3
+root 168 0.0 0.3 /usr/libexec/wsl-pro-service
+root 52 0.0 0.2 /usr/lib/systemd/systemd-journald
+root 1 0.0 0.1 /sbin/init
+systemd+ 141 0.0 0.1 /usr/lib/systemd/systemd-resolved
+
+--- ACTIVE USERS ---
+kartik   pts/1        2025-04-21 10:40
