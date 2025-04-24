@@ -20,16 +20,16 @@
 ### ✅ Week 1: Linux & Bash Mastery
 - [x] Practice CLI: `lsof`, `journalctl`, `systemctl`, `awk`, `sed`
 - [x] Set up `crontab` to automate backups or cleanups
-- [ ] Write scripts for system health, CPU/mem/disk
-- [ ] Learn file permissions and process management
+- [x] Write scripts for system health, CPU/mem/disk
+- [x] Learn file permissions and process management
 
 🔧 **Project**: `system-monitor.sh` — a Bash script that logs uptime, memory usage, and active users
 
 ---
 
 ### ✅ Week 2: Git + CI/CD Basics
-- [ ] Deep dive into Git branching, stashing, cherry-pick
-- [ ] Set up GitHub Actions for a Java Maven project
+- [x] Deep dive into Git branching, stashing, cherry-pick
+- [x] Set up GitHub Actions for a Java Maven project
 - [ ] Integrate unit tests and build steps
 - [ ] Explore Jenkins or CircleCI (optional)
 
