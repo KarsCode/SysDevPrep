@@ -1,0 +1,4 @@
+com/example/App.class
+com/example/dao/DBConnection.class
+com/example/model/Product.class
+com/example/dao/ProductDAO.class
