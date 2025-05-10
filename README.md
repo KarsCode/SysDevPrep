@@ -30,28 +30,28 @@
 ### ✅ Week 2: Git + CI/CD Basics
 - [x] Deep dive into Git branching, stashing, cherry-pick
 - [x] Set up GitHub Actions for a Java Maven project
-- [ ] Integrate unit tests and build steps
-- [ ] Explore Jenkins or CircleCI (optional)
+- [x] Integrate unit tests and build steps
+- [x] Explore Jenkins or CircleCI (optional)
 
 🔧 **Project**: `ci-demo-java` — a Java project with a full CI pipeline using GitHub Actions
 
 ---
 
 ### ✅ Week 3: Java Concurrency & Internals
-- [ ] Explore JVM memory model, GC, JIT
-- [ ] Build threaded tasks with `ExecutorService`, `Callable`
-- [ ] Use `synchronized`, `Semaphore`, and `BlockingQueue`
-- [ ] Handle concurrency bugs (race conditions, deadlocks)
+- [x] Explore JVM memory model, GC, JIT
+- [x] Build threaded tasks with `ExecutorService`, `Callable`
+- [x] Use `synchronized`, `Semaphore`, and `BlockingQueue`
+- [x] Handle concurrency bugs (race conditions, deadlocks)
 
 🔧 **Project**: `log-analyzer` — a tool to parse and summarize multiple logs in parallel threads
 
 ---
 
 ### ✅ Week 4: Networking & Sockets
-- [ ] Study TCP/IP stack, HTTP, 3-way handshake
-- [ ] Learn Java Sockets (ServerSocket, InputStream)
-- [ ] Pipe data between client and backend services
-- [ ] Add health checks, multithreading
+- [x] Study TCP/IP stack, HTTP, 3-way handshake
+- [x] Learn Java Sockets (ServerSocket, InputStream)
+- [x] Pipe data between client and backend services
+- [x] Add health checks, multithreading
 
 🔧 **Project**: `custom-load-balancer` — Round-robin TCP load balancer in Java
 
